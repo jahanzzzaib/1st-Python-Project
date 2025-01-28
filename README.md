@@ -4,4 +4,4 @@ New to learning python. Learnt some basics and made an interactive text based ga
 
 # Demo
 
-main.py | https://trinket.io/python3/c58baae2e864?outputOnly=true&runOption=run
+main.py | https://trinket.io/python3/0b0135e952cb?outputOnly=true&runOption=run
